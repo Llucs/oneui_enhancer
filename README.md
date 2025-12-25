@@ -1,22 +1,31 @@
-# One UI Enhancer 🚀
+# One UI Enhancer
 
-O **One UI Enhancer** é um módulo avançado para Magisk, focado em dispositivos Samsung, desenvolvido por **Llucs**. 
+[![Version](https://img.shields.io/badge/version-v1.0-blue)](https://github.com/Llucs/OneUI-Enhancer/releases)
+[![Magisk](https://img.shields.io/badge/Magisk-Compatible-brightgreen)](https://magiskmanager.com/)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
-Ao contrário de outros módulos, ele não utiliza "overclocks" agressivos ou tweaks que prejudicam a vida útil do hardware. O foco é a **qualidade das decisões do sistema**.
-
-## ✨ Benefícios
-- **Fluidez Real:** Redução de micro-stutters em animações da One UI.
-- **Bateria Inteligente:** Otimização do modo Doze e controle de processos em segundo plano.
-- **Gestão de RAM:** LMKD calibrado para manter o Launcher Samsung na memória.
-- **Temperatura:** Redução de picos de clock desnecessários que causam aquecimento.
-
-## 📱 Compatibilidade
-- **Dispositivos:** Samsung Galaxy (Intermediários e Entrada recomendados).
-- **Versões:** One UI 5, 6, 7 ou superior.
-- **Android:** 13, 14 e 15.
-
-## 🛠️ Como funciona?
-O módulo é dividido em submódulos dentro da pasta `common/`. Ele verifica a compatibilidade de cada caminho de sistema antes de aplicar qualquer alteração, garantindo que seu aparelho nunca entre em bootloop.
+**One UI Enhancer** é um módulo avançado para Magisk, desenvolvido por **Llucs**, focado em dispositivos Samsung. Ele traz **otimizações inspiradas no iOS**, voltadas para **fluidez, estabilidade, gerenciamento de memória e economia de bateria**, sem recorrer a tweaks agressivos que prejudicam o hardware.
 
 ---
-*Desenvolvido com foco em estabilidade por Llucs.*
+
+## 🔧 O que o módulo faz
+
+- **Fluidez e animações suaves:** reduz micro-stutters e melhora a resposta da interface da One UI.  
+- **Gestão inteligente de memória:** mantém apps importantes na RAM e evita kills desnecessários.  
+- **Eficiência energética:** otimiza Doze e processos em background para aumentar a autonomia.  
+- **Estabilidade do sistema:** evita picos de CPU/GPU e mantém o dispositivo frio e estável.  
+- **Experiência iOS-like:** traz decisões de sistema mais consistentes, como no iOS, para uma sensação mais fluida e previsível.
+
+---
+
+## 📱 Compatibilidade
+
+- **Dispositivos:** Samsung Galaxy (intermediários e entrada recomendados)  
+- **One UI:** 5, 6, 7 ou superior  
+- **Android:** 13, 14 e 15  
+
+---
+
+O **One UI Enhancer** aplica ajustes de forma segura e modular, garantindo que seu aparelho permaneça **fluido, estável e eficiente**, mesmo com otimizações profundas.
+
+*Desenvolvido por Llucs com foco em **qualidade e desempenho real** para dispositivos Samsung.*
