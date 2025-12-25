@@ -1,6 +1,6 @@
 # One UI Enhancer
 
-![Downloads](https://img.shields.io/github/downloads/Llucs/oneui-enhancer/total?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/Llucs/oneui_enhancer/total?style=flat-square)
 [![Version](https://img.shields.io/badge/version-v1.0-blue)](https://github.com/Llucs/OneUI-Enhancer/releases)
 [![Magisk](https://img.shields.io/badge/Magisk-Compatible-brightgreen)](https://magiskmanager.com/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
